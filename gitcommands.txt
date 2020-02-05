@@ -19,6 +19,7 @@
 >git mv file_name folder //move file to folder
 >git mv file_name filename //rename 
 >git commit -am "cool" //get directly commit
->git checkout -- file_name //undo the action in working copy
+>git checkout -- file_name //undo the action after adding in working copy 
+>git checkout commit_id -- file_name //undo the action after commiting in working copy 
 >git reset HEAD file_name //moving file from staged to unstaged area
 
