@@ -1,0 +1,17 @@
+>sudo apt install open-vm-tools //getting ubuntu in full screen
+>sudo apt install git //installing git
+>git config --global user.name "analystabhishek" //giving username
+>git config --global user.email "abhishekalacrity@gmail.com" //giving email
+>git config --list //show username and email
+>git init //inside folder type this
+>ls -la //show all hidden files
+>git add . //add your files in folder
+>git commit -m "add anything" //its like commenting ur commit
+>git log --author="analystabhishek" //to show what this user done commit
+>git status //show what has been and what not
+//flowchart->working area>staging area(add)>repository(commit)
+>git diff //difference between working and staging area
+>git diff --staged //difference between staging and repository
+>git diff HEAD //difference between repo and working area
+>git rm file_name.txt //delete file both working and repo
+
