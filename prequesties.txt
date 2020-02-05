@@ -1,2 +1,0 @@
-I used ubuntu 16.04 iso ,You can also git bash in windows
-After running ubuntu on vmware type all the commands written in commands.txt
