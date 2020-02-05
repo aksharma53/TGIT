@@ -23,3 +23,10 @@
 >git checkout commit_id -- file_name //undo the action after commiting in working copy 
 >git reset HEAD file_name //moving file from staged to unstaged area
 
+
+
+sdafdc 
+
+v c
+
+cx
