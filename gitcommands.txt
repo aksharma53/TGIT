@@ -24,9 +24,3 @@
 >git reset HEAD file_name //moving file from staged to unstaged area
 
 
-
-sdafdc 
-
-v c
-
-cx
