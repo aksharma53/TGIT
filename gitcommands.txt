@@ -9,7 +9,9 @@
 >git commit -m "add anything" //its like commenting ur commit
 >git log --author="analystabhishek" //to show what this user done commit
 >git status //show what has been and what not
+
 //flowchart->working area>staging area(add)>repository(commit)
+
 >git diff //difference between working and staging area
 >git diff --staged //difference between staging and repository
 >git diff HEAD //difference between repo and working area
@@ -17,4 +19,4 @@
 >git mv file_name folder //move file to folder
 >git mv file_name filename //rename 
 >git commit -am "cool" //get directly commit
-
+>git checkout -- file_name //undo the action in working copy
