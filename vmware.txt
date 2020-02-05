@@ -1,0 +1,2 @@
+I used ubuntu 16.04 iso 
+After running ubuntu on vmware type all the commands written in commands.txt
