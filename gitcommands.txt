@@ -33,3 +33,4 @@
 //save file in .gitignore so that it is not tracked
 
 //making contribution to open source
+1.fork the repo
