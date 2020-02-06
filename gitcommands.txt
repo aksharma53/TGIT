@@ -35,3 +35,5 @@
 //making contribution to open source
 1.fork the repo
 2.clone that forked repo in your system
+3.create a new branch using > git checkout -b cool
+
