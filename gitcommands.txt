@@ -37,4 +37,5 @@
 2.clone that forked repo in your system
 3.create a new branch using >git checkout -b cool
 4.add this command >git remote add upstream main_repo_link_path
-5
+5.after committing add this push command >git push -u origin cool
+
