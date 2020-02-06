@@ -34,3 +34,4 @@
 
 //making contribution to open source
 1.fork the repo
+2.clone that forked repo in your system
