@@ -24,3 +24,11 @@
 >git reset HEAD file_name //moving file from staged to unstaged area
 
 
+//github
+
+>git remote add cool repo_link
+>git remote
+>git push -u cool master
+
+//save file in .gitignore so that it is not tracked
+
