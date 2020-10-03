@@ -39,3 +39,7 @@
 4.add this command >git remote add upstream main_repo_link_path
 5.after committing add this push command >git push -u origin cool
 6.now just make a pull request
+
+//update 
+git remote add upstream repo_link
+git pull upstream master
