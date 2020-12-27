@@ -6,6 +6,7 @@
 >ls -la //show all hidden files
 >git add . //add your files in folder
 >git commit -m "add anything" //its like commenting ur commit
+>git log --oneline //to show what all user done commit
 >git log --author="analystabhishek" //to show what this user done commit
 >git status //show what has been and what not
 
