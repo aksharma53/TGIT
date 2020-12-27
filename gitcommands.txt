@@ -1,5 +1,4 @@
->sudo apt install open-vm-tools //getting ubuntu in full screen
->sudo apt install git //installing git
+//basics
 >git config --global user.name "analystabhishek" //giving username
 >git config --global user.email "abhishekalacrity@gmail.com" //giving email
 >git config --list //show username and email
@@ -43,3 +42,7 @@
 //update 
 git remote add upstream repo_link
 git pull upstream master
+
+//ubuntu
+>sudo apt install open-vm-tools //getting ubuntu in full screen
+>sudo apt install git //installing git
