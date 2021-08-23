@@ -2,9 +2,12 @@
 
 - flowchart->`working area`>`staging area(add)`>`repository(commit)`\
 -adding and commiting\
--`git commit -a -m "msg"` shortcut for add and commit\
+- `git commit -a -m "msg"` shortcut for add and commit\
 
--`git switch -c "branch name"` shortcut for creating and switching branch\
+- `git switch -c "branch name"` shortcut for creating and switching branch\
+- branching
+  - `git branch -D cool` switch outside of repo u have to deleted\
+  - 
 
 - basics\
 `git config --global user.name "analystabhishek"` giving username\
