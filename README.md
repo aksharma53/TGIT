@@ -1,17 +1,19 @@
 # TGIT
-- basics
+
+- flowchart->`working area`>`staging area(add)`>`repository(commit)`\
+-adding and commiting\
+-`git commit -a -m "msg"` shortcut for add and commit\
+
+-`git switch -c "branch name"` shortcut for creating and switching branch\
+
+- basics\
 `git config --global user.name "analystabhishek"` giving username\
 `git config --global user.email "abhishekalacrity@gmail.com"` giving email\
 `git config --list` show username and email\
-`git init` inside folder type this\
-`ls -la` show all hidden files\
-`git add .` add your files in folder\
-`git commit -m "add anything" ` its like commenting ur commit\
-`git log --oneline ` o show what all user done commit\
+`git log --oneline `  show what all user done commit\
 `git log --author="analystabhishek"` to show what this user done commit\
-`git status` show what has been and what not\
 
-- flowchart->working area>staging area(add)>repository(commit)
+
 
 `git diff `difference between working and staging area\
 `git diff --staged `difference between staging and repository\
@@ -32,18 +34,9 @@
 `git push -u cool master`
 //save file in .gitignore so that it is not tracked
 
-- making contribution to open source
-1.fork the repo
-2.clone that forked repo in your system
-3.create a new branch using >git checkout -b cool
-4.add this command >git remote add upstream main_repo_link_path
-5.after committing add this push command >git push -u origin cool
-6.now just make a pull request
+
 
 - update 
 git remote add upstream repo_link\
 git pull upstream master\
 
-- ubuntu
-` sudo apt install open-vm-tools`getting ubuntu in full screen\
-` sudo apt install git`installing git\
