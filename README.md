@@ -1,6 +1,7 @@
 # TGIT
 
 - flowchart->`working area`>`staging area(add)`>`repository(commit)`\
+
 - adding and commiting\
   - `git commit -a -m "msg"` shortcut for add and commit\
 
@@ -17,12 +18,17 @@
   - `git stash clear`\
   - `git stash drop {id}` delete specific stash\
 
-- basics\
-`git config --global user.name "analystabhishek"` giving username\
-`git config --global user.email "abhishekalacrity@gmail.com"` giving email\
-`git config --list` show username and email\
-`git log --oneline `  show what all user done commit\
-`git log --author="alphasaurs"` to show what this user done commit\
+- account\
+  - `git config --global user.name "analystabhishek"` giving username\
+  - `git config --global user.email "abhishekalacrity@gmail.com"` giving email\
+  - `git config --list` show username and email\
+  - `git log --oneline `  show what all user done commit\
+  - `git log --author="alphasaurs"` to show what this user done commit\
+
+- checkout\
+  - `git checkout {commit hash id}`\
+  - `git checkout HEAD~1` switch to previous commit\
+  - `git switch -` switch to previous branch\
 
 
 
