@@ -1,20 +1,28 @@
 # TGIT
 
 - flowchart->`working area`>`staging area(add)`>`repository(commit)`\
--adding and commiting\
-- `git commit -a -m "msg"` shortcut for add and commit\
+- adding and commiting\
+  - `git commit -a -m "msg"` shortcut for add and commit\
 
-- `git switch -c "branch name"` shortcut for creating and switching branch\
+ 
+
 - branching
   - `git branch -D cool` switch outside of repo u have to deleted\
-  - 
+  -  `git switch -c "branch name"` shortcut for creating and switching branch\
+
+- stashing
+  - `git stash` \
+  - `git stash pop`\
+  - `git stash list`\
+  - `git stash clear`\
+  - `git stash drop {id}` delete specific stash\
 
 - basics\
 `git config --global user.name "analystabhishek"` giving username\
 `git config --global user.email "abhishekalacrity@gmail.com"` giving email\
 `git config --list` show username and email\
 `git log --oneline `  show what all user done commit\
-`git log --author="analystabhishek"` to show what this user done commit\
+`git log --author="alphasaurs"` to show what this user done commit\
 
 
 
